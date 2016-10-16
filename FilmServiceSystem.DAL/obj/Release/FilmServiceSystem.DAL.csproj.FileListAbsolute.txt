@@ -1,0 +1,9 @@
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\bin\Release\FilmServiceSystem.DAL.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\bin\Release\FilmServiceSystem.DAL.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\bin\Release\FilmServiceSystem.Model.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\bin\Release\FilmServiceSystem.Parser.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\bin\Release\FilmServiceSystem.Model.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\bin\Release\FilmServiceSystem.Parser.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\obj\Release\FilmServiceSystem.DAL.csprojResolveAssemblyReference.cache
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\obj\Release\FilmServiceSystem.DAL.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.DAL\obj\Release\FilmServiceSystem.DAL.pdb

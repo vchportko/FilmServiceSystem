@@ -1,0 +1,5 @@
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Model\bin\Debug\FilmServiceSystem.Model.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Model\bin\Debug\FilmServiceSystem.Model.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Model\obj\Debug\FilmServiceSystem.Model.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Model\obj\Debug\FilmServiceSystem.Model.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Model\obj\Debug\FilmServiceSystem.Model.csprojResolveAssemblyReference.cache

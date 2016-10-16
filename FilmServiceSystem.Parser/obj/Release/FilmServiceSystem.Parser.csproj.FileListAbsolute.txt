@@ -1,0 +1,7 @@
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Parser\bin\Release\FilmServiceSystem.Parser.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Parser\bin\Release\FilmServiceSystem.Parser.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Parser\bin\Release\FilmServiceSystem.Model.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Parser\bin\Release\FilmServiceSystem.Model.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Parser\obj\Release\FilmServiceSystem.Parser.csprojResolveAssemblyReference.cache
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Parser\obj\Release\FilmServiceSystem.Parser.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Parser\obj\Release\FilmServiceSystem.Parser.pdb

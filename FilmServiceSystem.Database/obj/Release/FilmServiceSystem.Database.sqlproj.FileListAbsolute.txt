@@ -1,0 +1,5 @@
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Database\bin\Release\FilmServiceSystem.Database.dacpac
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Database\bin\Release\FilmServiceSystem.Database.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Database\bin\Release\FilmServiceSystem.Database.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Database\obj\Release\FilmServiceSystem.Database.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem.Database\obj\Release\FilmServiceSystem.Database.pdb

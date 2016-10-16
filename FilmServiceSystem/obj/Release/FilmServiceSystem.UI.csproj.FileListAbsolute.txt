@@ -1,0 +1,16 @@
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.exe.config
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.exe
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.DAL.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.Model.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.Parser.dll
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.DAL.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.Model.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\bin\Release\FilmServiceSystem.Parser.pdb
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\obj\Release\FilmServiceSystem.UI.csprojResolveAssemblyReference.cache
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\obj\Release\FilmServiceSystem.MainForm.resources
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\obj\Release\FilmServiceSystem.LogForm.resources
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\obj\Release\FilmServiceSystem.Properties.Resources.resources
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\obj\Release\FilmServiceSystem.UI.csproj.GenerateResource.Cache
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\obj\Release\FilmServiceSystem.exe
+F:\George\work\epam\project\FilmServiceSystem\FilmServiceSystem\obj\Release\FilmServiceSystem.pdb
