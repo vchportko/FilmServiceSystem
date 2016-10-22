@@ -1,6 +1,8 @@
 ﻿CREATE DATABASE DB_FilmBooking;
 GO
 
+--ВШ: не треба таблиця Person і Director, зв'язок з User 1:1
+--дивна номерація ключів у таблицях
 USE [DB_FilmBooking];
 GO
 CREATE TABLE Person
