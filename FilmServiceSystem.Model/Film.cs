@@ -8,7 +8,8 @@ namespace FilmServiceSystem.Model
 {
     public class Film
     {
-        public int ID { get; set; }
+        //the same in other models 
+        public int Id { get; set; }
         public string Title { get; set; }
         public string Genre { get; set; }
         public int YearRelease { get; set; }
